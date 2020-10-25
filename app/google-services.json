@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763774789984",
+    "firebase_url": "https://loginproject-26091.firebaseio.com",
+    "project_id": "loginproject-26091",
+    "storage_bucket": "loginproject-26091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763774789984:android:eb777b424482eaee8e1605",
+        "android_client_info": {
+          "package_name": "com.loginproject.karangtaruna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763774789984-grliveim0sbbi63ve18kkl8c7d1jbflh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQVvB1mYqXzP-ckYRCezXnpfb-xrB-wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763774789984-grliveim0sbbi63ve18kkl8c7d1jbflh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
